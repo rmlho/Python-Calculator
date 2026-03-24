@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (O mais importante no seu caso)
+.venv/
+venv/
+ENV/
+env/
+
+# Configurações do VS Code (Opcional, mas recomendado)
+.vscode/
+
+# Distribuição / Empacotamento
+dist/
+build/
+*.egg-info/
+
+# Arquivos do Sistema
+.DS_Store
+Thumbs.db
